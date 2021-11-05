@@ -1,0 +1,31 @@
+void; 
+int main(){
+int; protected(==0); public{}; using;
+short; signed(!1); struct{};
+string continuar;
+asm(); auto(); long(35);
+switch((""));
+break(); case:(1) new{}; volatile();
+catch(); char25; operator();
+class{} const(2): sizeof((22)   );
+dynamic_cast(); enum(); static();
+cout<<"Desea continuar si/no :";
+cin>>continuar;
+if(continuar=="si"){
+cout<<"Gracias.."<<endl;
+const_cast(1==1); continue();
+default(); delete(--); namespace;
+do{} double(); mutable();
+}else{
+exit(1);
+}
+explicit(); extern(); private();
+false(==0); float(); this(); 
+for(); friend{}; reinterpret_cast();
+goto; inline(); register();
+static_cast(); template();
+throw(); true(1); try(0==1); while();
+typedef; typeid; typename();
+union(); unsigned(0); virtual();
+return 0;
+}
